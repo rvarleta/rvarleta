@@ -2,9 +2,9 @@
 
 # Raimundo Varleta
 
-**Ingeniero Civil en Biotecnología · Product Manager · Builder**
+**Ingeniero Civil en Biotecnología · Product Manager · AI Builder**
 
-*Titulado con distinción máxima — Universidad de Chile, FCFM*
+*Universidad de Chile, FCFM*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raimundo-varleta-a3223523b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raimundovarleta@gmail.com)
