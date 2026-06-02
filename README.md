@@ -22,9 +22,9 @@ Ingeniero Civil en Biotecnología con mentalidad de Product Manager: foco en el 
 
 Experiencia práctica liderando producto en startups, coordinando equipos técnicos y comerciales, y construyendo plataformas que integran IA aplicada, datos y software.
 
-> *"All models are wrong, but some are useful."* — George Box
+> *"All models are wrong, but some are useful."* 
 
-> *"In God we trust; all others must bring data."* — W. Edwards Deming
+> *"In God we trust; all others must bring data."* 
 
 ---
 
