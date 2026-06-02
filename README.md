@@ -91,9 +91,9 @@ Tesis enfocada en gestión de proyectos interdisciplinario y desarrollo de model
 
 ## Lo que estoy construyendo ahora
 
-- **scrapeLLM** — API serverless de scraping con LLMs sobre AWS Lambda, modos `crawl` y `agentic` en desarrollo
-- **Lectio** — app que busca optimizar procesos educativos, desde la dinámica de clases hasta la búsqueda de docentes para procesos específicos
-- **DataBond** — espacio digital que vincula entornos de desarrollo técnico con espacios comerciales para prospecciones e iteraciones de producto efectivas
+- **scrapeLLM** - API serverless de scraping con LLMs sobre AWS Lambda, modos `crawl` y `agentic` en desarrollo
+- **Lectio** - app que busca optimizar procesos educativos, desde la dinámica de clases hasta la búsqueda de docentes para procesos específicos
+- **DataBond** - espacio digital que vincula entornos de desarrollo técnico con espacios comerciales para prospecciones e iteraciones de producto efectivas
 
 ---
 
